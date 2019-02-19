@@ -4,7 +4,7 @@ Azure CLI is a command-line tool for managing Azure resources.
 ### Install
 Clone repo:
 ```bash
-git Clone https://github.com/m0zgen/install-azure-cli-repo.git
+git clone https://github.com/m0zgen/install-azure-cli-repo.git
 ```
 
 Cd to repo folder:
